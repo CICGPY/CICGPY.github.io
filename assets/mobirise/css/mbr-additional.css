@@ -411,3 +411,9 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box5-3 H3 {
+  text-align: center;
+}
+#msg-box5-3 P {
+  text-align: left;
+}
