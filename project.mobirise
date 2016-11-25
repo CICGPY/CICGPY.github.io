@@ -226,13 +226,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7e9b9f"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7e9b9f"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#7e9b9f"
+              "color": "#41a85f"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -253,7 +253,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#7e9b9f",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -275,7 +275,7 @@
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#7e9b9f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -301,7 +301,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME / INICIO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"facebook.com/portalalpasado\" target=\"_blank\">RESUMEN</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">FOROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://genealogiaparaguaya.org/\" target=\"_blank\">I. P. G.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/Portal-al-Pasado-1127609247360242/\">Indexacion</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AYUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutoriales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mailto:pyinvestigaciongenealogica@gmail.com\">Contactenos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"facebook.com/portalalpasado\" target=\"_blank\">RESUMEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOROS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://genealogiaparaguaya.org/\" target=\"_blank\">I. P. G.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/Portal-al-Pasado-1127609247360242/\">Indexacion</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AYUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutoriales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mailto:pyinvestigaciongenealogica@gmail.com\">Contactenos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "social-buttons1",
