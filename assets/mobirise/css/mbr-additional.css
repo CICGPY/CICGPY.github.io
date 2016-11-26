@@ -420,16 +420,9 @@ h6,
 #msg-box5-3 I {
   text-align: left;
 }
-#msg-box6-7 .mbr-section-title,
-#msg-box6-7 .lead p {
-  color: #fff;
-}
-#msg-box6-7 H3 {
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
   text-align: center;
-  color: #faaf40;
-}
-#msg-box6-7 P {
-  color: #f3c649;
 }
 #form1-4 .form-control-label {
   color: #232323;
