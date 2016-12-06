@@ -137,40 +137,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc01203-2000x1500-2-2000x1500-21.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc01203-2000x1500-2.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc01229-2000x1500-50-2000x1500-3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc01229-2000x1500-50.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc01205-2000x1500-67-2000x1500-76.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc01205-2000x1500-67.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc01206-2000x1500-96-2000x1500-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc01206-2000x1500-96.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01203-2000x1500-10-2000x1500-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc01203-2000x1500-10.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01229-2000x1500-11-2000x1500-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc01229-2000x1500-11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01205-2000x1500-97-2000x1500-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc01205-2000x1500-97.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01206-2000x1500-26-2000x1500-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc01206-2000x1500-26.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -191,6 +191,14 @@
             "Extension"
           ],
           "_name": "extForm1",
+          "_styles": {
+            "H2": {
+              "color": "#b9942f"
+            },
+            "P": {
+              "color": "#7c706b"
+            }
+          },
           "_anchor": "extForm1-o",
           "_params": {
             "paddingTop": 1,
@@ -291,15 +299,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR MENSAJE</a>",
-          "_styles": {
-            "H2": {
-              "color": "#b9942f"
-            },
-            "P": {
-              "color": "#7c706b"
-            }
-          }
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR MENSAJE</a>"
         },
         {
           "_styles": {
